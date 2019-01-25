@@ -1,4 +1,4 @@
-# Nodejs Chat Room Application
+# Nodejs Async Await Console Application
 
 NodeJS console based application to showcase the ES7 async await features for asynchronous programming, also making use of axios for calling 2 rest api's.
 
